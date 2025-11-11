@@ -1,8 +1,9 @@
 
 #Indice
 
-Larry plotter y el blucle filosofal
-
-Larry plotter y la clave secreta del wifi
-Larry Ploteer y el prisionero del firewall
-
+-Larry plotter y el blucle filosofal
+-Larry plotter y la clave secreta del wifi
+-Larry Ploteer y el prisionero del firewall
+-Larry Plotter y el mallware de fuego
+-Larry Plotter y le orden de Unix
+-Larry Plotter y el misterio del Hacker
